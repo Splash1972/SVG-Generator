@@ -68,7 +68,7 @@ function generateSVG(color, shape, text) {
 
 // Function to save SVG content to a file
 function saveSVGToFile(svgContent) {
-    fs.writeFile('logo.svg', svgContent, (err) => {
+    fs.writeFile('examples/logo.svg', svgContent, (err) => {
         if (err) {
             console.error('Error saving SVG file:', err);
         } else {
