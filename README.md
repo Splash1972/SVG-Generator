@@ -10,4 +10,8 @@ The svg logo will be created, and then viewed via a browser.  Also, the console 
 
 Link to walkthrough video:
 
+https://app.screencastify.com/v2/manage/videos/SH5tlfqSIc7l1ahLs8Cg
+
+by Colin Robinson
+
 
