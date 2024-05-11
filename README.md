@@ -12,6 +12,9 @@ Link to walkthrough video:
 
 https://drive.google.com/file/d/1IdTC3xAfSduB_0mA5fHQSC-QoE8coucL/view?pli=1
 
+I worked on this project by myself, with some help from a tutoring session and occasionally some help from code academy documentaion,
+as well as from MDN Web Docs and w3 schools.
+
 by Colin Robinson
 
 
